@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f439fad.css",
-    "main.js": "/static/js/main.9ddb42ac.js",
+    "main.css": "/static/css/main.f1623fed.css",
+    "main.js": "/static/js/main.e4a83204.js",
     "static/media/profile2.png": "/static/media/profile2.3004e90282652fa748c1.png",
     "static/media/bez-takip-uygulamasi.png": "/static/media/bez-takip-uygulamasi.0c175006eaf174d26a89.png",
     "static/media/gradient1.jpeg": "/static/media/gradient1.5dc68c216b83434fe654.jpeg",
@@ -12,11 +12,11 @@
     "static/media/Profile.pdf": "/static/media/Profile.0c252a16c502bdfbf350.pdf",
     "static/media/notesApp.png": "/static/media/notesApp.4ddb5cfab99f403a6397.png",
     "index.html": "/index.html",
-    "main.4f439fad.css.map": "/static/css/main.4f439fad.css.map",
-    "main.9ddb42ac.js.map": "/static/js/main.9ddb42ac.js.map"
+    "main.f1623fed.css.map": "/static/css/main.f1623fed.css.map",
+    "main.e4a83204.js.map": "/static/js/main.e4a83204.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f439fad.css",
-    "static/js/main.9ddb42ac.js"
+    "static/css/main.f1623fed.css",
+    "static/js/main.e4a83204.js"
   ]
 }
