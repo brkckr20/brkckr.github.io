@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.f1623fed.css",
-    "main.js": "/static/js/main.ec71cb74.js",
+    "main.js": "/static/js/main.f3462b38.js",
     "static/media/profile2.png": "/static/media/profile2.3004e90282652fa748c1.png",
     "static/media/bez-takip-uygulamasi.png": "/static/media/bez-takip-uygulamasi.0c175006eaf174d26a89.png",
     "static/media/gradient1.jpeg": "/static/media/gradient1.5dc68c216b83434fe654.jpeg",
+    "static/media/React201.png": "/static/media/React201.0da1149e853d8a68a9bb.png",
     "static/media/gradient.jpeg": "/static/media/gradient.1740174a96231b1758ee.jpeg",
+    "static/media/React201.pdf": "/static/media/React201.d203c6e5de8e8655ce8e.pdf",
     "static/media/React101.pdf": "/static/media/React101.db2154ce40fa2a9d33c3.pdf",
     "static/media/React101.png": "/static/media/React101.b2fdaa5107dbb9bdffb5.png",
     "static/media/covid19.png": "/static/media/covid19.a61313847be7b47fb50c.png",
@@ -14,10 +16,10 @@
     "static/media/notesApp.png": "/static/media/notesApp.4ddb5cfab99f403a6397.png",
     "index.html": "/index.html",
     "main.f1623fed.css.map": "/static/css/main.f1623fed.css.map",
-    "main.ec71cb74.js.map": "/static/js/main.ec71cb74.js.map"
+    "main.f3462b38.js.map": "/static/js/main.f3462b38.js.map"
   },
   "entrypoints": [
     "static/css/main.f1623fed.css",
-    "static/js/main.ec71cb74.js"
+    "static/js/main.f3462b38.js"
   ]
 }
