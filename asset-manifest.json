@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f1623fed.css",
-    "main.js": "/static/js/main.f3462b38.js",
+    "main.js": "/static/js/main.b61f30ae.js",
     "static/media/profile2.png": "/static/media/profile2.3004e90282652fa748c1.png",
     "static/media/bez-takip-uygulamasi.png": "/static/media/bez-takip-uygulamasi.0c175006eaf174d26a89.png",
     "static/media/gradient1.jpeg": "/static/media/gradient1.5dc68c216b83434fe654.jpeg",
@@ -16,10 +16,10 @@
     "static/media/notesApp.png": "/static/media/notesApp.4ddb5cfab99f403a6397.png",
     "index.html": "/index.html",
     "main.f1623fed.css.map": "/static/css/main.f1623fed.css.map",
-    "main.f3462b38.js.map": "/static/js/main.f3462b38.js.map"
+    "main.b61f30ae.js.map": "/static/js/main.b61f30ae.js.map"
   },
   "entrypoints": [
     "static/css/main.f1623fed.css",
-    "static/js/main.f3462b38.js"
+    "static/js/main.b61f30ae.js"
   ]
 }
